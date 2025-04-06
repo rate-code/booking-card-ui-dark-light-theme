@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
-import 'package:testing/screen.dart';
+import 'package:booking_card_ui/screen.dart';
 
 void main() {
   runApp(const MyApp());

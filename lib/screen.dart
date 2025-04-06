@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
-import 'package:testing/constants.dart';
+import 'package:booking_card_ui/constants.dart';
 
 class StaticBookingsScreen extends StatefulWidget {
   const StaticBookingsScreen({super.key});

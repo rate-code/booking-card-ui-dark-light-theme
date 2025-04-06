@@ -1,16 +1,47 @@
-# testing
+# ✨ Booking Card UI – Light & Dark Theme in Flutter
 
-A new Flutter project.
+A sleek, responsive booking card UI built with Flutter, featuring a smooth light and dark mode toggle.
 
-## Getting Started
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-CardUI-blue?style=for-the-badge&logo=flutter" alt="Flutter UI" />
+  <img src="https://img.shields.io/badge/Theme-Light%20%26%20Dark-6c5ce7?style=for-the-badge" alt="Theme Toggle" />
+</div>
 
-This project is a starting point for a Flutter application.
+## 🚀 Preview
 
-A few resources to get you started if this is your first Flutter project:
+Check out the UI in action on **YouTube Shorts** 📺  
+👉 [Watch Now](https://youtube.com/shorts/G-VCU6xezfg?feature=share)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://youtube.com/shorts/G-VCU6xezfg?feature=share
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Features
+
+- Elegant light/dark mode switch
+- Clean card layout with modern UI
+- Fully responsive & pixel-perfect
+- Easy to customize for bookings, hotels, or product cards
+
+---
+
+## 🧰 Tech Stack
+
+- ✅ **Flutter**
+- 🎨 **Material Design**
+- 🌙 **Dark Mode**
+- 💡 **State Management: setState**
+
+---
+
+## 🔧 How to Run
+
+```bash
+flutter pub get
+flutter run
+```
+
+Pull requests are welcome! If you find any bugs or want to enhance the design, feel free to open an issue or submit a PR.
+
+If you like this project, feel free to share it and drop a comment on the video!
+Don’t forget to ⭐️ the repo and subscribe on YouTube! 🙌
